@@ -1,0 +1,13 @@
+package tn.enis;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FirstSpringBootApplication2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FirstSpringBootApplication2Application.class, args);
+	}
+
+}
