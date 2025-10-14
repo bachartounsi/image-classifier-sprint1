@@ -1,3 +1,4 @@
+# image-classifier-sprint1
 This project implements and deploys an image classification API capable of predicting object categories from uploaded images.
 It integrates with the Hugging Face Inference API to leverage pre-trained deep learning models for accurate and scalable predictions.
 
